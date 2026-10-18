@@ -9,7 +9,10 @@ Windows 双击 `start.bat`，或在本目录运行 `python game.py`。
 
 本项目由GPT协助制作
 
-##本项目没有做exe，游玩请下载完整代码库后运行start.bat
+## 本项目没有做exe，游玩请下载完整代码库后运行start.bat，或运行部署哔哩哔哩游戏平台的网页版↓
+https://www.bilibili.com/toy/FogXiangQi/index.html
+
+
 
 
 ## 目录
