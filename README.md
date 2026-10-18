@@ -7,6 +7,9 @@ Windows 双击 `start.bat`，或在本目录运行 `python game.py`。
 需要保留原来的 `XQPy-0.1` 目录：基础象棋走法通过它的 `Position.legalMove` 判定。
 原项目没有被修改。扩展规则不采用标准象棋的将军禁手，胜负按真将被消灭判定。
 
+本项目由GPT协助制作
+
+
 ## 目录
 
 ```text
@@ -82,3 +85,16 @@ XQPy-0.1/               原始开源象棋程序
 运行 `python -m unittest discover -s tests -v` 检查规则。
 基础走法复用本地 XQPy-0.1/XQlightPy/position.py，原项目作者信息与原许可证见 XQPy-0.1/README.md 和 XQPy-0.1/LICENSE。
 本项目按 GNU GPL v3 发布，许可证副本见主目录 LICENSE。
+
+
+## License / 许可证
+
+本项目采用 PolyForm Noncommercial License 1.0.0 许可证。
+
+允许免费使用、修改和分发，但禁止未经授权的商业使用。
+
+转载或发布修改版本时，必须保留原作者的版权声明及许可证信息。
+
+Copyright (c) 2026 雪花莲
+
+详细条款请参阅 [LICENSE](LICENSE)。
