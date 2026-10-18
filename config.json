@@ -1,0 +1,17 @@
+{
+  "title": "迷雾战棋 · 中国象棋",
+  "vision_shape": "diamond",
+  "initial_deployment": 0,
+  "instant_kill": true,
+  "piece_stats": {
+    "P": {"cost": 1, "attack": 1, "hp": 1},
+    "C": {"cost": 4, "attack": 1, "hp": 1},
+    "R": {"cost": 5, "attack": 1, "hp": 1},
+    "N": {"cost": 4, "attack": 1, "hp": 1},
+    "B": {"cost": 3, "attack": 1, "hp": 1},
+    "A": {"cost": 3, "attack": 1, "hp": 1},
+    "K": {"cost": 30, "attack": 1, "hp": 1},
+    "F": {"cost": 15, "attack": 1, "hp": 1}
+  },
+  "textures": {}
+}

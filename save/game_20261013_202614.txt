@@ -1,0 +1,1487 @@
+{
+  "pieces": [
+    {
+      "uid": 3,
+      "side": 0,
+      "kind": "B",
+      "x": 2,
+      "y": 9,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 1,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 4,
+      "side": 0,
+      "kind": "A",
+      "x": 3,
+      "y": 9,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 1,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 5,
+      "side": 0,
+      "kind": "K",
+      "x": 4,
+      "y": 9,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 1,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 6,
+      "side": 0,
+      "kind": "A",
+      "x": 5,
+      "y": 9,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 1,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 7,
+      "side": 0,
+      "kind": "B",
+      "x": 6,
+      "y": 9,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 1,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 8,
+      "side": 0,
+      "kind": "N",
+      "x": 6,
+      "y": 7,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 1,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 9,
+      "side": 0,
+      "kind": "R",
+      "x": 8,
+      "y": 9,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 1,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 10,
+      "side": 0,
+      "kind": "C",
+      "x": 1,
+      "y": 7,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 1,
+      "skill_turn": 12,
+      "hidden": false,
+      "recon": "上",
+      "recon_until": 13,
+      "logistics": 0
+    },
+    {
+      "uid": 11,
+      "side": 0,
+      "kind": "C",
+      "x": 4,
+      "y": 7,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 1,
+      "skill_turn": 12,
+      "hidden": false,
+      "recon": "上",
+      "recon_until": 13,
+      "logistics": 0
+    },
+    {
+      "uid": 12,
+      "side": 0,
+      "kind": "P",
+      "x": 0,
+      "y": 6,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 1,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 13,
+      "side": 0,
+      "kind": "P",
+      "x": 2,
+      "y": 5,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 1,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 14,
+      "side": 0,
+      "kind": "P",
+      "x": 4,
+      "y": 6,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 1,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 15,
+      "side": 0,
+      "kind": "P",
+      "x": 6,
+      "y": 5,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 1,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 16,
+      "side": 0,
+      "kind": "P",
+      "x": 8,
+      "y": 6,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 1,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 17,
+      "side": 1,
+      "kind": "R",
+      "x": 0,
+      "y": 0,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 0,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 18,
+      "side": 1,
+      "kind": "N",
+      "x": 2,
+      "y": 2,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 0,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 19,
+      "side": 1,
+      "kind": "B",
+      "x": 2,
+      "y": 0,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 0,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 20,
+      "side": 1,
+      "kind": "A",
+      "x": 3,
+      "y": 0,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 0,
+      "skill_turn": 14,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 3
+    },
+    {
+      "uid": 21,
+      "side": 1,
+      "kind": "K",
+      "x": 4,
+      "y": 0,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 0,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 22,
+      "side": 1,
+      "kind": "A",
+      "x": 5,
+      "y": 0,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 0,
+      "skill_turn": 14,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 3
+    },
+    {
+      "uid": 23,
+      "side": 1,
+      "kind": "B",
+      "x": 6,
+      "y": 0,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 0,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 24,
+      "side": 1,
+      "kind": "N",
+      "x": 7,
+      "y": 0,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 0,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 25,
+      "side": 1,
+      "kind": "R",
+      "x": 8,
+      "y": 0,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 0,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 26,
+      "side": 1,
+      "kind": "C",
+      "x": 1,
+      "y": 2,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 15,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 28,
+      "side": 1,
+      "kind": "P",
+      "x": 0,
+      "y": 3,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 0,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 29,
+      "side": 1,
+      "kind": "P",
+      "x": 2,
+      "y": 3,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 0,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 30,
+      "side": 1,
+      "kind": "P",
+      "x": 4,
+      "y": 3,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 0,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 31,
+      "side": 1,
+      "kind": "P",
+      "x": 6,
+      "y": 3,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 0,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 32,
+      "side": 1,
+      "kind": "P",
+      "x": 8,
+      "y": 3,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 0,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 33,
+      "side": 1,
+      "kind": "P",
+      "x": 3,
+      "y": 1,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 5,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 34,
+      "side": 0,
+      "kind": "P",
+      "x": 2,
+      "y": 6,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 8,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 35,
+      "side": 1,
+      "kind": "P",
+      "x": 3,
+      "y": 3,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 7,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 37,
+      "side": 1,
+      "kind": "P",
+      "x": 5,
+      "y": 1,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 8,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 38,
+      "side": 1,
+      "kind": "P",
+      "x": 5,
+      "y": 3,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 8,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 39,
+      "side": 0,
+      "kind": "C",
+      "x": 4,
+      "y": 5,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 11,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 40,
+      "side": 1,
+      "kind": "P",
+      "x": 3,
+      "y": 2,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 9,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 41,
+      "side": 0,
+      "kind": "P",
+      "x": 3,
+      "y": 5,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 12,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 42,
+      "side": 0,
+      "kind": "P",
+      "x": 5,
+      "y": 5,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 14,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 43,
+      "side": 1,
+      "kind": "P",
+      "x": 0,
+      "y": 1,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 15,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 44,
+      "side": 1,
+      "kind": "P",
+      "x": 4,
+      "y": 1,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 14,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 45,
+      "side": 1,
+      "kind": "P",
+      "x": 5,
+      "y": 2,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 14,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 46,
+      "side": 1,
+      "kind": "P",
+      "x": 7,
+      "y": 2,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 14,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 47,
+      "side": 1,
+      "kind": "P",
+      "x": 0,
+      "y": 2,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 16,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    },
+    {
+      "uid": 48,
+      "side": 1,
+      "kind": "P",
+      "x": 0,
+      "y": 4,
+      "attack": 1,
+      "hp": 1,
+      "max_hp": 1,
+      "ready_at": 16,
+      "skill_turn": -1,
+      "hidden": false,
+      "recon": null,
+      "recon_until": 0,
+      "logistics": 0
+    }
+  ],
+  "current": 0,
+  "round": 15,
+  "turns": [
+    15,
+    14
+  ],
+  "ap": 2,
+  "scores": [
+    31,
+    9
+  ],
+  "deployment": [
+    4,
+    1
+  ],
+  "disguise_used": [
+    false,
+    false
+  ],
+  "smoke": [],
+  "history": [
+    {
+      "round": 1,
+      "side": 0,
+      "action": "移动",
+      "source": "h3",
+      "target": "e3"
+    },
+    {
+      "round": 1,
+      "side": 0,
+      "action": "结束回合"
+    },
+    {
+      "round": 1,
+      "side": 1,
+      "action": "移动",
+      "source": "b10",
+      "target": "c8"
+    },
+    {
+      "round": 1,
+      "side": 1,
+      "action": "结束回合"
+    },
+    {
+      "round": 2,
+      "side": 0,
+      "action": "移动",
+      "source": "b1",
+      "target": "c3"
+    },
+    {
+      "round": 2,
+      "side": 0,
+      "action": "结束回合"
+    },
+    {
+      "round": 2,
+      "side": 1,
+      "action": "移动受阻",
+      "source": "h8",
+      "target": "h8"
+    },
+    {
+      "round": 2,
+      "side": 1,
+      "action": "结束回合"
+    },
+    {
+      "round": 3,
+      "side": 0,
+      "action": "移动",
+      "source": "h1",
+      "target": "g3"
+    },
+    {
+      "round": 3,
+      "side": 0,
+      "action": "结束回合"
+    },
+    {
+      "round": 3,
+      "side": 1,
+      "action": "炮击",
+      "source": "b8",
+      "target": "b2",
+      "hit": false
+    },
+    {
+      "round": 3,
+      "side": 1,
+      "action": "结束回合"
+    },
+    {
+      "round": 4,
+      "side": 0,
+      "action": "移动",
+      "source": "c4",
+      "target": "c5"
+    },
+    {
+      "round": 4,
+      "side": 0,
+      "action": "结束回合"
+    },
+    {
+      "round": 4,
+      "side": 1,
+      "action": "移动",
+      "source": "h8",
+      "target": "h1"
+    },
+    {
+      "round": 4,
+      "side": 1,
+      "action": "部署",
+      "kind": "P",
+      "target": "d9",
+      "cost": 1
+    },
+    {
+      "round": 4,
+      "side": 1,
+      "action": "结束回合"
+    },
+    {
+      "round": 5,
+      "side": 0,
+      "action": "技能",
+      "name": "快速部署",
+      "source": "c3",
+      "target": "f6",
+      "options": {
+        "dst": [
+          5,
+          4
+        ],
+        "first": [
+          3,
+          5
+        ]
+      }
+    },
+    {
+      "round": 5,
+      "side": 0,
+      "action": "部署",
+      "kind": "P",
+      "target": "c4",
+      "cost": 1
+    },
+    {
+      "round": 5,
+      "side": 0,
+      "action": "结束回合"
+    },
+    {
+      "round": 5,
+      "side": 1,
+      "action": "移动",
+      "source": "h1",
+      "target": "h2"
+    },
+    {
+      "round": 5,
+      "side": 1,
+      "action": "结束回合"
+    },
+    {
+      "round": 6,
+      "side": 0,
+      "action": "移动",
+      "source": "a1",
+      "target": "a2"
+    },
+    {
+      "round": 6,
+      "side": 0,
+      "action": "结束回合"
+    },
+    {
+      "round": 6,
+      "side": 1,
+      "action": "炮击",
+      "source": "b8",
+      "target": "b2",
+      "hit": false
+    },
+    {
+      "round": 6,
+      "side": 1,
+      "action": "部署",
+      "kind": "P",
+      "target": "d8",
+      "cost": 1
+    },
+    {
+      "round": 6,
+      "side": 1,
+      "action": "结束回合"
+    },
+    {
+      "round": 7,
+      "side": 0,
+      "action": "移动",
+      "source": "a2",
+      "target": "h2"
+    },
+    {
+      "round": 7,
+      "side": 0,
+      "action": "结束回合"
+    },
+    {
+      "round": 7,
+      "side": 1,
+      "action": "技能",
+      "name": "后勤部队",
+      "source": "d10",
+      "target": "d10",
+      "options": {}
+    },
+    {
+      "round": 7,
+      "side": 1,
+      "action": "技能",
+      "name": "后勤部队",
+      "source": "f10",
+      "target": "f10",
+      "options": {}
+    },
+    {
+      "round": 7,
+      "side": 1,
+      "action": "部署",
+      "kind": "P",
+      "target": "e9",
+      "cost": 1
+    },
+    {
+      "round": 7,
+      "side": 1,
+      "action": "部署",
+      "kind": "P",
+      "target": "f9",
+      "cost": 1
+    },
+    {
+      "round": 7,
+      "side": 1,
+      "action": "部署",
+      "kind": "P",
+      "target": "f8",
+      "cost": 1
+    },
+    {
+      "round": 7,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "h8",
+      "cost": 1
+    },
+    {
+      "round": 7,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "h8",
+      "cost": 1
+    },
+    {
+      "round": 7,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "h8",
+      "cost": 1
+    },
+    {
+      "round": 7,
+      "side": 1,
+      "action": "结束回合"
+    },
+    {
+      "round": 8,
+      "side": 0,
+      "action": "移动",
+      "source": "f6",
+      "target": "d7"
+    },
+    {
+      "round": 8,
+      "side": 0,
+      "action": "部署",
+      "kind": "C",
+      "target": "e5",
+      "cost": 4
+    },
+    {
+      "round": 8,
+      "side": 0,
+      "action": "结束回合"
+    },
+    {
+      "round": 8,
+      "side": 1,
+      "action": "移动",
+      "source": "d8",
+      "target": "d7"
+    },
+    {
+      "round": 8,
+      "side": 1,
+      "action": "部署",
+      "kind": "P",
+      "target": "d8",
+      "cost": 1
+    },
+    {
+      "round": 8,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "h8",
+      "cost": 1
+    },
+    {
+      "round": 8,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "h8",
+      "cost": 1
+    },
+    {
+      "round": 8,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "h8",
+      "cost": 1
+    },
+    {
+      "round": 8,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "h8",
+      "cost": 1
+    },
+    {
+      "round": 8,
+      "side": 1,
+      "action": "结束回合"
+    },
+    {
+      "round": 9,
+      "side": 0,
+      "action": "技能",
+      "name": "侦察",
+      "source": "e3",
+      "target": "e3",
+      "options": {
+        "direction": "上"
+      }
+    },
+    {
+      "round": 9,
+      "side": 0,
+      "action": "技能",
+      "name": "侦察",
+      "source": "b3",
+      "target": "b3",
+      "options": {
+        "direction": "上"
+      }
+    },
+    {
+      "round": 9,
+      "side": 0,
+      "action": "部署",
+      "kind": "P",
+      "target": "d5",
+      "cost": 1
+    },
+    {
+      "round": 9,
+      "side": 0,
+      "action": "结束回合"
+    },
+    {
+      "round": 9,
+      "side": 1,
+      "action": "炮击",
+      "source": "b8",
+      "target": "b1",
+      "hit": false
+    },
+    {
+      "round": 9,
+      "side": 1,
+      "action": "结束回合"
+    },
+    {
+      "round": 10,
+      "side": 0,
+      "action": "移动",
+      "source": "g4",
+      "target": "g5"
+    },
+    {
+      "round": 10,
+      "side": 0,
+      "action": "结束回合"
+    },
+    {
+      "round": 10,
+      "side": 1,
+      "action": "技能",
+      "name": "后勤部队",
+      "source": "d10",
+      "target": "d10",
+      "options": {}
+    },
+    {
+      "round": 10,
+      "side": 1,
+      "action": "技能",
+      "name": "后勤部队",
+      "source": "f10",
+      "target": "f10",
+      "options": {}
+    },
+    {
+      "round": 10,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "h8",
+      "cost": 1
+    },
+    {
+      "round": 10,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "h8",
+      "cost": 1
+    },
+    {
+      "round": 10,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "h8",
+      "cost": 1
+    },
+    {
+      "round": 10,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "h8",
+      "cost": 1
+    },
+    {
+      "round": 10,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "h8",
+      "cost": 1
+    },
+    {
+      "round": 10,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "h8",
+      "cost": 1
+    },
+    {
+      "round": 10,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "h8",
+      "cost": 1
+    },
+    {
+      "round": 10,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "h8",
+      "cost": 1
+    },
+    {
+      "round": 10,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "h8",
+      "cost": 1
+    },
+    {
+      "round": 10,
+      "side": 1,
+      "action": "结束回合"
+    },
+    {
+      "round": 11,
+      "side": 0,
+      "action": "部署",
+      "kind": "P",
+      "target": "f5",
+      "cost": 1
+    },
+    {
+      "round": 11,
+      "side": 0,
+      "action": "移动",
+      "source": "h2",
+      "target": "h8"
+    },
+    {
+      "round": 11,
+      "side": 0,
+      "action": "结束回合"
+    },
+    {
+      "round": 11,
+      "side": 1,
+      "action": "移动",
+      "source": "f8",
+      "target": "f7"
+    },
+    {
+      "round": 11,
+      "side": 1,
+      "action": "结束回合"
+    },
+    {
+      "round": 12,
+      "side": 0,
+      "action": "技能",
+      "name": "侦察",
+      "source": "e3",
+      "target": "e3",
+      "options": {
+        "direction": "上"
+      }
+    },
+    {
+      "round": 12,
+      "side": 0,
+      "action": "技能",
+      "name": "侦察",
+      "source": "b3",
+      "target": "b3",
+      "options": {
+        "direction": "上"
+      }
+    },
+    {
+      "round": 12,
+      "side": 0,
+      "action": "结束回合"
+    },
+    {
+      "round": 12,
+      "side": 1,
+      "action": "炮击",
+      "source": "b8",
+      "target": "b1",
+      "hit": false
+    },
+    {
+      "round": 12,
+      "side": 1,
+      "action": "部署",
+      "kind": "P",
+      "target": "a9",
+      "cost": 1
+    },
+    {
+      "round": 12,
+      "side": 1,
+      "action": "结束回合"
+    },
+    {
+      "round": 13,
+      "side": 0,
+      "action": "移动受阻",
+      "source": "h8",
+      "target": "e8"
+    },
+    {
+      "round": 13,
+      "side": 0,
+      "action": "结束回合"
+    },
+    {
+      "round": 13,
+      "side": 1,
+      "action": "移动",
+      "source": "e9",
+      "target": "e8"
+    },
+    {
+      "round": 13,
+      "side": 1,
+      "action": "部署",
+      "kind": "P",
+      "target": "e9",
+      "cost": 1
+    },
+    {
+      "round": 13,
+      "side": 1,
+      "action": "部署",
+      "kind": "P",
+      "target": "f8",
+      "cost": 1
+    },
+    {
+      "round": 13,
+      "side": 1,
+      "action": "部署",
+      "kind": "P",
+      "target": "h8",
+      "cost": 1
+    },
+    {
+      "round": 13,
+      "side": 1,
+      "action": "部署",
+      "kind": "P",
+      "target": "a8",
+      "cost": 1
+    },
+    {
+      "round": 13,
+      "side": 1,
+      "action": "部署",
+      "kind": "P",
+      "target": "a6",
+      "cost": 1
+    },
+    {
+      "round": 13,
+      "side": 1,
+      "action": "结束回合"
+    },
+    {
+      "round": 14,
+      "side": 0,
+      "action": "炮击",
+      "source": "e5",
+      "target": "e8",
+      "hit": true
+    },
+    {
+      "round": 14,
+      "side": 0,
+      "action": "结束回合"
+    },
+    {
+      "round": 14,
+      "side": 1,
+      "action": "技能",
+      "name": "后勤部队",
+      "source": "d10",
+      "target": "d10",
+      "options": {}
+    },
+    {
+      "round": 14,
+      "side": 1,
+      "action": "技能",
+      "name": "后勤部队",
+      "source": "f10",
+      "target": "f10",
+      "options": {}
+    },
+    {
+      "round": 14,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "b10",
+      "cost": 1
+    },
+    {
+      "round": 14,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "b10",
+      "cost": 1
+    },
+    {
+      "round": 14,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "b10",
+      "cost": 1
+    },
+    {
+      "round": 14,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "b10",
+      "cost": 1
+    },
+    {
+      "round": 14,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "b10",
+      "cost": 1
+    },
+    {
+      "round": 14,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "b10",
+      "cost": 1
+    },
+    {
+      "round": 14,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "b10",
+      "cost": 1
+    },
+    {
+      "round": 14,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "b10",
+      "cost": 1
+    },
+    {
+      "round": 14,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "b10",
+      "cost": 1
+    },
+    {
+      "round": 14,
+      "side": 1,
+      "action": "部署失败",
+      "kind": "P",
+      "target": "b10",
+      "cost": 1
+    },
+    {
+      "round": 14,
+      "side": 1,
+      "action": "结束回合"
+    }
+  ],
+  "winner": null,
+  "mode": "ai",
+  "pending_handoff": false,
+  "next_uid": 49,
+  "format": "fog-xiangqi",
+  "version": 1
+}
